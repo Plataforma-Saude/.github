@@ -11,7 +11,7 @@
 - Koity Alex Sakaguchi - koityalex@gmail.com
 - Leonardo Marcones Sehn - leonardomsehn@gmail.com
 
-Link do projeto: https://medfastsaude.app/login
+# Link do projeto: https://medfastsaude.app/login
 
 # 1. Resumo Executivo
 Este projeto propõe o desenvolvimento de uma plataforma SaaS (Software as a Service) white-label para agendamento online de consultas médicas. A solução foi desenhada para ser integrada de forma transparente aos sites de clínicas, hospitais e consultórios particulares, bem como profissionais da saúde autônomos, como Psicólogos, Nutricionistas, etc. permitindo que personalizem a aparência do sistema com sua própria identidade visual (cores, logo, etc.). O objetivo é modernizar a experiência do paciente, otimizar a gestão de agendas dos profissionais de saúde e reduzir custos operacionais para as instituições.
